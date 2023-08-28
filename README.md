@@ -1,2 +1,2 @@
-Welcome to my Blog!
+Welcome to my Blog! \n
 Have Fun and Enjoy Browsing!
